@@ -1,0 +1,15 @@
+Como usar
+
+  # um arquivo
+  python video2mp3.py reuniao.mp4
+
+  # uma pasta inteira (converte todos os videos)
+  python video2mp3.py C:\caminho\videos
+
+  # escolher a pasta de saida
+  python video2mp3.py reuniao.mp4 -d C:\atas\audios
+
+  # se precisar de mais qualidade
+  python video2mp3.py reuniao.mp4 -q balanced
+
+  O script mostra o tamanho antes/depois e a % de redução de cada arquivo.

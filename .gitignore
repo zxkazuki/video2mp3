@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Saidas geradas pela aplicacao
+*.mp3
+*.txt
+!requirements*.txt
+!Como usar.txt
+
+# Sistema
+.DS_Store
+Thumbs.db
